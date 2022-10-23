@@ -40,7 +40,7 @@
 手动执行一次`同步源仓库`即可
 #### 自动同步
 开启并启用`同步源仓库`即可 每天会定时同步两次
-# 致谢
+# 致谢1144
 
 [@chavyleung](https://github.com/chavyleung/)  
 [@Wenmoux](https://github.com/Wenmoux/)  
