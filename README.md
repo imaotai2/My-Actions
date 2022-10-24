@@ -24,7 +24,7 @@
 7. 由于规则更新,同步后会默认禁用,请手动点击Actions 选择要签到的项目 `enable workflows`激活
 8. [定时执行](#定时执行) (如修改了执行时间 请关闭同步源仓库  否则同步时会覆盖)
 
-[设置相关Secrets](Secrets.md)
+[设置相关Secrets](Secrets.md)5
 
 # 定时执行
 1. 支持手动执行，具体在Action中选中要执行的Workflows后再在右侧可以看到Run workflow，点击即可运行此workflow。
